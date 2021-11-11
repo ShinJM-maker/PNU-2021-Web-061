@@ -5,7 +5,7 @@
 ## 질의응답 방법
 1. 본 저장소의 [Issue 탭](https://github.com/kr-MATAGI/PNU-2021-Web-061/issues)으로 이동합니다.
 2. 같은 질문이 있는지 검색을 먼저 해봅니다. <br> 해결된 질문은 보통 <code>closed</code> 상태이므로 [Closed Issues](https://github.com/kr-MATAGI/PNU-2021-Web-061/issues?q=is%3Aissue+is%3Aclosed) 에서 검색해주세요.
-3. 원하는 Solution을 찾지 못하였다면 다시 Issue 탭으로 들어가서 <b>New Issue</b> 버튼을 누른 후 [질문 양식](https://github.com/kr-MATAGI/PNU-2021-Web-061/issues/new/choose)의 'GetStarted' 버튼을 클릭하여 지정된 양식에 맞게 질문해주세요.
+3. 원하는 Solution을 찾지 못하였다면 다시 Issue 탭으로 들어가서 <b>New Issue</b> 버튼을 누른 후 [질문 양식](https://github.com/kr-MATAGI/PNU-2021-Web-061/issues/new/choose)의 <b>'GetStarted'</b> 버튼을 클릭하여 지정된 양식에 맞게 질문해주세요.
 4. 학생 여러분들도 이슈에 답변 또는 의견을 자유롭게 제시해주면 좋습니다.
 
     * 만약 스크린샷을 업로드해야 하는 경우 아래 주소를 참조하시면 되는데, 보통은 스크린샷 파일을 드래그 앤 드롭하면 업로드됩니다. <br> 참조: [스크린샷 업로드 방법](https://worthpreading.tistory.com/83)
